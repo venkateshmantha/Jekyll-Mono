@@ -5,6 +5,12 @@ author: Author Name
 published: true
 ---
 
+--- 
+layout: post
+title: 100 Days of Code
+author: Venkatesh Mantha
+---
+
 An attempt to code and learn consistently for 100 days. Follow this space for daily updates.
 
 ## Updates 
