@@ -5,7 +5,7 @@ author: Author Name
 published: true
 ---
 
-An attempt to code and learn consistently for 100 days.
+An attempt to code and learn consistently for 100 days. Follow this space for daily updates.
 
 ## Updates 
 -----
