@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Placeholder Text Here
-author: Author Name
+author: Venkatesh Mantha
 ---
 
 Edit 
