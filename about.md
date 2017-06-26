@@ -5,7 +5,19 @@ permalink: /about/
 published: true
 ---
 
-Hi there!
+Hi there! I am Venkatesh Mantha, a second year CS grad from the University of Florida. I'd like to pen my thoughts and some of my interesting work through this blog.
+
+#### What interests me?
+
+Exploring concepts of Distributed Computing, Networking, Machine learning and AI.
+
+#### Favorite things
+
+Photography, Blogging, Attending Hacks, Tennis and Coffee(Covfefe?).
+
+#### Not so favorite things
+
+Heights and Insects.
 
 ## Education
 
@@ -14,11 +26,14 @@ Hi there!
 
 ## Roles
 
-Founder, ABC Organisation
+Active member, UF ACM chapter
+Active member, UF Opensource club
+Former Software Engineer, Media iQ Digital
+Former Software Intern, Media iQ Digital
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
+* **Languages** - `Java` / `Python` / `C` / `GoLang`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 3** - `Skill` / `Skill` / `Skill`
 * **Skill 4** - `Skill` / `Skill` / `Skill` 
