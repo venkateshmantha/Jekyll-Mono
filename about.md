@@ -33,7 +33,7 @@ Heights and Insects.
 
 ## Skills
 
-`Java` / `Python` / `C` / `GoLang` / `Angular JS` / `PostgreSQL` / `NoSQL` / `AWS` / `Spring`
+`Java` , `Python` , `C` , `GoLang` , `Angular JS` , `PostgreSQL` , `NoSQL` , `AWS` , `Spring`
     
     
 ## Achievements
