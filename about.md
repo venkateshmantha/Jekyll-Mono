@@ -26,19 +26,14 @@ Heights and Insects.
 
 ## Roles
 
-Active member, UF ACM chapter
-Active member, UF Opensource club
-Former Software Engineer, Media iQ Digital
-Former Software Intern, Media iQ Digital
+* Active member, UF ACM Chapter
+* Active member, UF Opensource Club
+* Former Software Engineer, Media iQ Digital
+* Former Software Intern, Media iQ Digital
 
 ## Skills
 
-* **Languages** - `Java` / `Python` / `C` / `GoLang`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+`Java` / `Python` / `C` / `GoLang` / `Angular JS` / `PostgreSQL` / `NoSQL` / `AWS` / `Spring`
     
     
 ## Achievements
