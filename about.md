@@ -34,3 +34,6 @@ Heights and Insects.
 ## Skills
 
 `Java` , `Python` , `C` , `GoLang` , `Angular JS` , `PostgreSQL` , `NoSQL` , `AWS` , `Spring`
+
+## Resume
+[Venkatesh_Resume](Venkatesh_Resume.pdf) 
